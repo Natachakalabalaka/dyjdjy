@@ -1,2 +1,2 @@
 # dyjdjy
-print("Hello Worm")
+Hello Worm
